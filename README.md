@@ -23,46 +23,6 @@ examples below for the appropriate formatting.
 
  
 
-12
-
-433
-
-1
-
-5331
-
- 
-
-0012 0433 0001 5331
-
- 
-
-9182
-
-4221
-
-12
-
-3
-
- 
-
-9182 4221 0012 0003
-
- 
-
-812
-
-321
-
-123
-
-22
-
- 
-
-0812 0321 0123 0022
-
 ### Problem 2.                
 Rectangle Area
 
@@ -84,33 +44,6 @@ character after the decimal point**.
 
  
 
-2
-
-7
-
- 
-
-14.00
-
- 
-
-7
-
-8
-
- 
-
-56.00
-
- 
-
-12.33
-
-5
-
- 
-
-61.65
 
 ### Problem 3.                
 Miles to Kilometers
@@ -157,29 +90,7 @@ mile == 1.60934 kilometers**
 
 **Output**
 
- 
 
-60
-
- 
-
-96.56
-
- 
-
-1
-
- 
-
-1.61
-
- 
-
-52.1113
-
- 
-
-83.86
 
 ### Problem 4.                
 Beverage Labels
@@ -212,23 +123,6 @@ Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”)
 
 **Output**
 
- 
-
-Nuka-Cola
-
-220
-
-300
-
-70
-
- 
-
-220ml Nuka-Cola:
-
-660kcal, 154g sugars
-
- 
 
  
 
@@ -240,22 +134,6 @@ Nuka-Cola
 
  
 
-Ice Cold Nuka-Cola
-
-250
-
-350
-
-65
-
- 
-
-250ml Ice Cold Nuka-Cola:
-
-875kcal, 162.5g sugars
-
- 
-
  
 
 **Input**
@@ -264,21 +142,7 @@ Ice Cold Nuka-Cola
 
 **Output**
 
- 
 
-Nuka-Cola Quantum
-
-350
-
-600
-
-140
-
- 
-
-350ml Nuka-Cola Quantum:
-
-2100kcal, 490g sugars
 
 ### Problem 5.                
 * Character Stats
@@ -309,50 +173,6 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 
 **Output**
 
- 
-
-Mayro
-
-5
-
-10
-
-9
-
-10
-
- 
-
-Name: Mayro
-
-Health: ||||||.....|
-
-Energy: ||||||||||.|
-
- 
-
-Bauser
-
-10
-
-10
-
-10
-
-10
-
- 
-
-Name: Bauser
-
-Health: ||||||||||||
-
-Energy: ||||||||||||
-
- 
-
- 
-
 **Input**
 
  
@@ -367,51 +187,4 @@ Energy: ||||||||||||
 
 **Input**
 
- 
-
 **Output**
-
- 
-
-Loogi
-
-8
-
-20
-
-2
-
-14
-
- 
-
-Name: Loogi
-
-Health: |||||||||............|
-
-Energy:
-  |||............|
-
- 
-
-Toad
-
-0
-
-5
-
-0
-
-10
-
- 
-
-Name: Toad
-
-Health: |.....|
-
-Energy: |..........|
-
-#### Hints
-
-You can print a character **multip**
