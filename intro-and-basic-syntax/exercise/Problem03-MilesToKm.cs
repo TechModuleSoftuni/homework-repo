@@ -6,10 +6,10 @@ namespace Problem_3.Miles_to_Kilometers
     {
         static void Main(string[] args)
         {
-            //1 mile == 1.60934 kilometers
+            //We get miles from Console and convert it to kilometers using the formula 1 mile == 1.60934 kilometers.
             double miles = double.Parse(Console.ReadLine());
             double kilometers = miles * 1.60934;
-            
+            //TODO print the result.
             Console.WriteLine($"{kilometers:F2}");
         }
     }
