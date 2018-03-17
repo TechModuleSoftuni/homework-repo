@@ -6,21 +6,21 @@ namespace Problem_4.Beverage_Labels
     {
         static void Main(string[] args)
         {
-            string bevarageName = Console.ReadLine();
-            int inputVolume = int.Parse(Console.ReadLine());
-            double inputEnergiContent = double.Parse(Console.ReadLine());
-            double inputSugarContent = double.Parse(Console.ReadLine());
+            string productName = Console.ReadLine();
+            int volume = int.Parse(Console.ReadLine());
+            double energyContentPer100ml = double.Parse(Console.ReadLine());
+            double sugarContentPer100ml = double.Parse(Console.ReadLine());
                         
-            double energi = inputEnergiContent/100;
-            double sugar = inputSugarContent/100;
-            double energiContentFin = energi * inputVolume;
-            double sugarContentFin = sugar * inputVolume;
+            double energy = energyContentPer100ml/100;
+            double sugar = sugarContentPe100ml/100;
+            double totalEnergy = energy * volume;
+            double totalSugar = sugar * volume;
 
             /*220ml Nuka-Cola:
               660kcal, 154g sugars*/
             
-            Console.WriteLine($"{inputVolume}ml {bevarageName}:");
-            Console.WriteLine($"{energiContentFin}kcal, {sugarContentFin}g sugars");
+            Console.WriteLine($"{volume}ml {productName}:");
+            Console.WriteLine($"{totalEnergy}kcal, {totalSugar}g sugars");
 
         }
     }
