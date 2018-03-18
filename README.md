@@ -191,7 +191,7 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 
 
 ***Add changes from Kalina Petrova***
-*
+
 
 ***Problem 3*** 
 -
