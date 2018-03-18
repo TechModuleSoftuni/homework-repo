@@ -230,8 +230,11 @@ Write a program, which reads a food product **name, volume, energy content per 1
 **Input:**
 
 ->Nuka-Cola
+
 ->220
+
 ->300
+
 ->70 
 
 **Output:**
@@ -242,8 +245,11 @@ Write a program, which reads a food product **name, volume, energy content per 1
 **Input:**
 
 -> Ice Cold Nuka-Cola
+
 -> 250
+
 -> 350
+
 -> 65 
 
 **Output:**
@@ -254,8 +260,11 @@ Write a program, which reads a food product **name, volume, energy content per 1
 **Input:**
 
 -> Nuka-Cola Quantum
+
 -> 350
+
 -> 600
+
 -> 140 
 
 **Output:**
