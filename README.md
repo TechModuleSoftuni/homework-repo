@@ -240,6 +240,7 @@ Write a program, which reads a food product **name, volume, energy content per 1
 **Output:**
 
 220ml Nuka-Cola:
+
 660kcal, 154g sugars
 
 **Input:**
@@ -255,6 +256,7 @@ Write a program, which reads a food product **name, volume, energy content per 1
 **Output:**
 
 250ml Ice Cold Nuka-Cola:
+
 875kcal, 162.5g sugars
 
 **Input:**
@@ -270,4 +272,5 @@ Write a program, which reads a food product **name, volume, energy content per 1
 **Output:**
 
 350ml Nuka-Cola Quantum:
+
 2100kcal, 490g sugars
