@@ -193,7 +193,7 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 --------------------------------------------------------------------------------------------------------------------------
 
 ***Problem 3*** 
----------------
+-
 **Miles to Kilometers**
 
 Write a program, which **converts miles** to **kilometers**. **Format** the output to the **2-nd decimal place**.
