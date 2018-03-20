@@ -21,7 +21,7 @@ namespace Problem_4.Beverage_Labels
             
             Console.WriteLine($"{volume}ml {productName}:");
             Console.WriteLine($"{totalEnergy}kcal, {totalSugar}g sugars");
-
+ 
         }
     }
 }
