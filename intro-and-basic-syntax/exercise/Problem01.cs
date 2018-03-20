@@ -22,7 +22,7 @@ namespace Problem01
             Console.Write($"{secondNumber:d4} ");
             Console.Write($"{thirdNumber:d4} ");
             Console.Write($"{fourthNumber:d4} ");
-
+ 
         }
     }
 }
