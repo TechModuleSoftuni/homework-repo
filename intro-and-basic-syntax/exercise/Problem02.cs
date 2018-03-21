@@ -1,3 +1,4 @@
+//CONFIRMED from <RosenDev>
 using System;
 using System.Threading;
 
@@ -11,7 +12,7 @@ namespace Softuni
             var widthRectangle = double.Parse(Console.ReadLine());
             var heightRectangle = double.Parse(Console.ReadLine());
 
-            /*We have to calculate the rectangle’s area,
+            /*We have to calculate the rectangleâ€™s area,
              * based on its width and height*/
             var areaRectangle = widthRectangle*heightRectangle;
 
