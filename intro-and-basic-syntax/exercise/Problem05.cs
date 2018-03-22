@@ -1,3 +1,4 @@
+//CONFIRMED from <RosenDev>
 using System;
 using System.Text;
 
@@ -31,7 +32,7 @@ namespace ConsoleApp5
              1-st the name of the character
              2-nd helth the character  
              3-rd energy
-             example: currenthelth-5 ; maxHelth-10 -> Health: ||||||.....| */
+             example: currentHelth-5 ; maxHelth-10 -> Health: ||||||.....| */
             Console.WriteLine($"Name: {name}");
             Console.WriteLine($"Health: |{healthAstext}{healthMissing}|");
             Console.WriteLine($"Energy: |{energyAsText}{energyMissing}|");
